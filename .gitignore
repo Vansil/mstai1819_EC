@@ -1,1 +1,6 @@
 *.class
+*.jar
+*.dll
+*.so
+*.dylib
+javabbob/
